@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRdoMaster/NodeJS-Project.git"
+  },
+  "author": "Rodrigo Bergamo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheRdoMaster/NodeJS-Project/issues"
+  },
+  "homepage": "https://github.com/TheRdoMaster/NodeJS-Project#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "save-dev": "0.0.1-security"
+  }
+}
